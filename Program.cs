@@ -8,7 +8,10 @@
            string pusto = " ";
            string perehod = "\n";
 
-            for (int i = 0; i < 5; i++)
+            Console.Write("Введите число: ");
+            int number = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < number; i++)
             {
                 for (int j = 0; j < 1; j++)
                 {
