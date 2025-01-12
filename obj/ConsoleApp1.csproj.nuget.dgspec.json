@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nina\\Documents\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Viktor\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nina\\Documents\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Viktor\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nina\\Documents\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Viktor\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Nina\\Documents\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Nina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nina\\Documents\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\Viktor\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Viktor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Viktor\\Desktop\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Viktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
